@@ -1,0 +1,67 @@
+This is the list for the current EWW App goals and focuses
+
+The EWW App seeks to be a centralized center for all software. If maximized, the scope of the app would include the following:
+*Centralized Client Management System
+*Operations Management (Scheduling, Labor, etc.)
+*Independent Payroll & Streamlined Payment Process
+*Data Analytics
+*Miscellaneous
+The final product would be a fully functioning cross platform application. This includes mobile devices (Android & iOS), as
+well as desktops (Windows, MacOS, Linux). It would be available as a mobile and desktop application. 
+
+
+
+
+DETAILS EXPANDED
+
+Centralized Client Database System (CCMS)
+*Basic Client Profile Management
+*Automated Addition of New Clients When a Lead is Generated Through Text
+*Basic Job Scheduling for Clients
+  *Overlaps with OM
+*Simple Quote Request Tracking
+  *Option on web form to schedule quotes and/or list availibility for quotes
+*Basic Client Communication
+  *Mass text
+  *Automate texting individual clients reminders
+
+
+Operations Management (OM)
+*Direct Employee Management
+  *Employee profile directory
+  *Job scheduling & assignment
+    *will include easier job rescheduling for both labor and clients
+*Resource Allocation/Logistics
+  *Resources (vehicles, cleaning equipment), may be assigned to jobs, individuals, vehicles, etc.
+  *More...
+*Improved UI Features for Scheduling
+  *For example, switch to calendar view where all jobs with a possible error are highlighted red
+*Real Time Scheduling
+*Notification System (for managers and employees, not customers)
+
+
+Independent Payroll & Streamlined Payment Process
+*No Third Party Payment Software
+*Automatic Generation of Invoices 
+  *Keeps history of invoices
+*Automatic Tracking of Outstanding Invoices, Sends Reminders, Creates Easy List to See
+  *Bad checks, haven't paid with credit card online yet, etc.
+
+
+Data Analytics
+*Client Data Insights
+*Employee Performance Statistics
+  *Ratio of how many sick days taken, how long to complete a job, etc.
+*Financial Metrics
+
+
+Miscellaneous (Misc.)
+*Integration of User Types
+  *"Owner", "Admin", "Grunt"
+*Christmas Tree/Christmas Lights 
+
+
+
+
+
+
